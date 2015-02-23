@@ -1,0 +1,135 @@
+
+
+/*.active {
+  list-style-type: none;
+
+}
+
+.nav_item {
+  
+}*/
+
+
+html{
+  font-size: 16px;
+  font-family: 'Architects Daughter', cursive;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Architects Daughter', cursive;
+  color: red;
+  font-weight: bold;
+}
+
+#title{
+ background-image: url(/images/space-invaders.png);
+ background-size: cover;
+ font-size: 8em;
+ color: peachpuff;
+ text-align: center;
+ border-radius: 5px;
+
+}
+
+header{
+  max-width: 900px;
+  display: block;
+  margin: auto;
+  padding: 50px 80px;
+  /*background-size: cover;*/
+  /*background-image: url(/images/alien1.jpg);*/
+  /*box-sizing: border-box;*/
+}
+
+.nav_item{
+  float: left;
+  display: inline;
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  list-style-type: none;
+}
+
+
+#layout{
+  max-width: 900px
+  display: block;
+  margin: auto;
+  padding: 50px 80px;
+  box-sizing: border-box;
+}
+
+#main_content ul li{
+ float: left;
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+  margin: auto;
+  list-style-type: none;
+}
+
+
+h2{
+  background-image: url(/images/invasion.jpg);
+  background-size: cover;
+}
+
+#main_content h3 {
+  background-image: url(/images/invasion.jpg);
+  background-size: cover;
+}
+
+h4{
+  background-image: url(/images/invasion.jpg);
+  background-size: cover;
+}
+
+
+.planets li{
+  display: inline-block;
+  color: blue;
+  text-align: center;
+
+/*h1:hover{
+  font-size: 8em;
+  transition: all .3s ease;
+
+}
+
+
+/*p{
+  font-family: 'Architects Daughter', cursive;
+}
+
+p, li{
+ }
+ .{
+  color: 
+  text-decoration: none;
+ }
+
+li{
+  list-style-type: none;
+}
+
+ a:hover{
+  border-bottom: : 1px dashed #FFF;
+ }
+
+nav{
+
+}
+
+nav ul{
+
+}
+
+ nav ul li a {
+  font-size: 2em;
+  background-color: green;
+
+ }
+
+nav ul li a: hover{
+}
+
