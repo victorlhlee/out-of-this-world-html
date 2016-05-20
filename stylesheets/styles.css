@@ -10,7 +10,7 @@
 }*/
 
 
-html{
+/*html{
   font-size: 16px;
   font-family: 'Architects Daughter', cursive;
 }
@@ -36,10 +36,10 @@ header{
   display: block;
   margin: auto;
   padding: 50px 80px;
-  /*background-size: cover;*/
+  background-size: cover;*/
   /*background-image: url(/images/alien1.jpg);*/
   /*box-sizing: border-box;*/
-}
+/*}
 
 .nav_item{
   float: left;
@@ -67,19 +67,19 @@ header{
   margin: auto;
   list-style-type: none;
 }
+*/
 
-
-h2{
+/*h2{
   background-image: url(/images/invasion.jpg);
   background-size: cover;
 }
-
-#main_content h3 {
+*/
+/*#main_content h3 {
   background-image: url(/images/invasion.jpg);
   background-size: cover;
-}
+}*/
 
-h4{
+/*h4{
   background-image: url(/images/invasion.jpg);
   background-size: cover;
 }
@@ -88,7 +88,7 @@ h4{
 .planets li{
   display: inline-block;
   color: blue;
-  text-align: center;
+  text-align: center;*/
 
 /*h1:hover{
   font-size: 8em;
